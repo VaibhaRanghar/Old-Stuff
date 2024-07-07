@@ -1,0 +1,6 @@
+Complete this flash card UI!
+
+Add text bar and 'enter' button to insert the question.
+Add a 'add ans' bar. 
+Add a delete button.
+Add sort feature.

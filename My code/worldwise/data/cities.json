@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "6f76",
+      "cityName": "Dehra Dun",
+      "country": "",
+      "emoji": "",
+      "date": "2024-02-14T06:40:12.322Z",
+      "notes": "",
+      "position": {
+        "lat": "30.266295270565237",
+        "lng": "78.03110361099245"
+      }
+    },
+    {
+      "id": "015d",
+      "cityName": "Castello de la Plana",
+      "country": "",
+      "emoji": "",
+      "date": "2024-03-09T05:56:02.392Z",
+      "notes": "sadasdasdasd",
+      "position": {
+        "lat": "39.986590631428534",
+        "lng": "-0.03828048706054688"
+      }
+    },
+    {
+      "id": "cd0a",
+      "cityName": "Costitx",
+      "country": "",
+      "emoji": "",
+      "date": "2024-03-09T05:56:34.639Z",
+      "notes": "dfsdfsdf",
+      "position": {
+        "lat": "39.6606850221923",
+        "lng": "2.9388427734375004"
+      }
+    },
+    {
+      "id": "e2e4",
+      "cityName": "Dehra Dun",
+      "country": "",
+      "emoji": "",
+      "date": "2024-03-09T05:57:07.830Z",
+      "notes": "my house",
+      "position": {
+        "lat": "30.26523889391965",
+        "lng": "78.03230524063112"
+      }
+    }
+  ]
+}
